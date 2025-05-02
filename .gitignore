@@ -1,0 +1,6 @@
+data_async/
+data_no_async/
+# build files
+my_lib/build/
+my_lib/dist/
+**.egg-info/
